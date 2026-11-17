@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-portsentry"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-portsentry component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
